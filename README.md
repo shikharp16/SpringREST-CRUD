@@ -1,6 +1,8 @@
 # SpringREST-CRUD
 Api's for CRUD operations performed on Employee Management System app built on spring.
 
+> Note : Use Postman for API testing
+
 1. **To view all the employees**
     - API - http://13.59.66.179:8080/springEvalFinal/view
     - Request - GET
@@ -30,4 +32,4 @@ Api's for CRUD operations performed on Employee Management System app built on s
     - Request - DELETE
     
     
-> Note : Use Postman for API testing
+
